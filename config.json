@@ -1,0 +1,17 @@
+{
+    "LOCAL_KC": false,
+    "VANILLA_KC": false,
+    "LOCAL_KC_BASE_URL": "http://localhost:8180",
+    "LOCAL_KC_REALM_ID": "lsac",
+    "LOCAL_KC_CLIENT_ID": "lsac-platform-home",
+    "LOCAL_KC_CLIENT_SECRET": "0PKnN4WWvOcnws99bqMxIWUc6YSV7dqO",
+    "LOCAL_KC_ACCOUNT_NAME":"sch-dev-test",
+    "COMMON_USER_PASSWORD": "Saama@12345!",
+    "VANILLA_KC_BASE_URL": "http://localhost:8888",
+    "VANILLA_KC_REALM_ID": "test",
+    "VANILLA_CLIENT_ID": "lsac-platform-home",
+    "VANILLA_KC_CLIENT_SECRET": "euz7xfEM5dX2U1EUH7HUlaa8SMgtebz2",
+    "USER_COUNT":20,
+    "LOCAL_KC_BROWSER_FLOW":true,
+    "LOCAL_KC_HOME_GATEWAY_BASE_URL": "http://localhost:9100/"
+}
